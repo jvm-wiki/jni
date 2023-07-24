@@ -4,7 +4,6 @@ Information relating to the JVM’s Java Native Interface.
 ## Contents
 ### Introduction
 - [What is JNI?](https://placeholder.com)
-- [Usage](https://placeholder.com)
 
 ### Usage
 - [Using JNI](https://placeholder.com)
