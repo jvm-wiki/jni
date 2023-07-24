@@ -1,5 +1,5 @@
-# jni
-Information relating to the JVM’s Java Native Interface.
+# 🔗 JNI
+Learn about the Java Native Interface and it's uses.
 
 ## Contents
 ### Introduction
